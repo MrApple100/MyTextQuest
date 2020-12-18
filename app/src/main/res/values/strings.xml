@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyTextQuest</string>
+    <string name="startbutname">Войти</string>
+    <string name="starttext">//Добро пожаловать...\n//Введите свой никнейм\nдля входа в систему...</string>
+    <string name="mistakename">//Не введено имя!</string>
+    <string name="starthinttext">Ваше имя_</string>
+    <string name="hakerman">Хакерман: \u0020</string>
+    <string name="repBlack">RPBlack: \u0020</string>
+    <string name="repWhite">RPWhite: \u0020</string>
+    <string name="Subsribes">Последователей: \u0020</string>
+    <string name="direction">//Направление</string>
+    <string name="First">//Cыграть за белую сторону </string>
+    <string name="Second">//Сыграть за черную сторону</string>
+    <string name="Third">//Переждать событие</string>
+
+
+
+</resources>
